@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "dataModelVersion" : "3"
+  },
+  "content" : {
+    "flowSnapshot" : {
+      "flowContents" : {
+        "comments" : "",
+        "componentType" : "PROCESS_GROUP",
+        "connections" : [ ],
+        "controllerServices" : [ ],
+        "funnels" : [ ],
+        "identifier" : "4b1c7620-0b42-3f04-9328-d812cbf2c16e",
+        "inputPorts" : [ ],
+        "labels" : [ ],
+        "name" : "git_flow",
+        "outputPorts" : [ ],
+        "position" : {
+          "x" : 467.0,
+          "y" : 184.0
+        },
+        "processGroups" : [ ],
+        "processors" : [ ],
+        "remoteProcessGroups" : [ ],
+        "variables" : { }
+      }
+    }
+  }
+}
